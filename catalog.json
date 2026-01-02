@@ -1,5 +1,5 @@
 {
-  "version": 3, 
+  "version": 4, 
   "items": [
     {
       "sku": "4351-5",
@@ -11,6 +11,14 @@
     {
       "sku": "9999-5",
       "name": "test: 2x test",
+      "imageUrl": "#",
+      "defaultDose": 1,
+      "recommended": { "pattern": "twice", "times": ["08:00", "20:00"] }
+    },
+    
+    {
+      "sku": "12345",
+      "name": "kas nüüd?: 2x test",
       "imageUrl": "#",
       "defaultDose": 1,
       "recommended": { "pattern": "twice", "times": ["08:00", "20:00"] }
