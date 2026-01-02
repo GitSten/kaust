@@ -16,34 +16,7 @@
       "recommended": { "pattern": "twice", "times": ["08:00", "20:00"] }
     },
 
-    {
-      "sku": "22222-5",
-      "name": "testin2: 2x test",
-      "imageUrl": "#",
-      "defaultDose": 1,
-      "recommended": { "pattern": "twice", "times": ["08:00", "20:00"] }
-    },
-    {
-      "sku": "3333-5",
-      "name": "testin3: 2x test",
-      "imageUrl": "#",
-      "defaultDose": 1,
-      "recommended": { "pattern": "twice", "times": ["08:00", "20:00"] }
-    },
-    {
-      "sku": "1111-5",
-      "name": "test: 5x test",
-      "imageUrl": "https://via.placeholder.com/200?text=2x",
-      "defaultDose": 3,
-      "recommended": { "pattern": "twice", "times": ["08:00", "20:00"] }
-    },
-    {
-      "sku": "8888-5",
-      "name": "Näidis: 3x fsafasfafsasfasfaf päevas",
-      "imageUrl": "https://via.placeholder.com/200?text=3x",
-      "defaultDose": 1,
-      "recommended": { "pattern": "three", "times": ["08:00", "13:00", "20:00"] }
-    },
+   
     {
       "sku": "11111-5",
       "name": "uus: 3x päevas",
