@@ -6,7 +6,7 @@
       "name": "AJU VÄGI – aju ja mälu vitamiinid aju töö toetuseks",
       "imageUrl": "#",
       "defaultDose": 2,
-      "recommended": { "pattern": "morning" }
+      "recommended": { "pattern": "morning" } 
     },
     {
       "sku": "9999-5",
