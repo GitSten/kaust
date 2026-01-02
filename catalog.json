@@ -16,6 +16,13 @@
       "recommended": { "pattern": "twice", "times": ["08:00","20:00"] }
     },
     {
+      "sku": "1111-5",
+      "name": "test: 5x test",
+      "imageUrl": "https://via.placeholder.com/200?text=2x",
+      "defaultDose": 3,
+      "recommended": { "pattern": "twice", "times": ["08:00","20:00"] }
+    },    
+    {
       "sku": "8888-5",
       "name": "Näidis: 3x päevas",
       "imageUrl": "https://via.placeholder.com/200?text=3x",
