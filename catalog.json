@@ -29,5 +29,13 @@
       "defaultDose": 1,
       "recommended": { "pattern": "three", "times": ["08:00","13:00","20:00"] }
     }
+     {
+      "sku": "11111-5",
+      "name": "uus: 3x päevas",
+      "imageUrl": "https://via.placeholder.com/200?text=3x",
+      "defaultDose": 1,
+      "recommended": { "pattern": "three", "times": ["08:00","13:00","20:00"] }
+    }
+    
   ]
 }
