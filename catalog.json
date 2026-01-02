@@ -10,7 +10,7 @@
     },
     {
       "sku": "9999-5",
-      "name": "Näidis: 2x päevas",
+      "name": "test: 2x test",
       "imageUrl": "https://via.placeholder.com/200?text=2x",
       "defaultDose": 1,
       "recommended": { "pattern": "twice", "times": ["08:00","20:00"] }
