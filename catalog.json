@@ -4,14 +4,14 @@
     {
       "sku": "4351-5",
       "name": "AJU VÄGI – aju ja mälu vitamiinid aju töö toetuseks",
-      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/aju-vagi-transparent.png",
+      "imageUrl": "#",
       "defaultDose": 2,
       "recommended": { "pattern": "morning" }
     },
     {
       "sku": "9999-5",
       "name": "test: 2x test",
-      "imageUrl": "https://via.placeholder.com/200?text=2x",
+      "imageUrl": "#",
       "defaultDose": 1,
       "recommended": { "pattern": "twice", "times": ["08:00","20:00"] }
     },
