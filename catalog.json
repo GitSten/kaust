@@ -1,10 +1,10 @@
 {
-  "version":6, 
+  "version":1, 
   "items": [
     {
       "sku": "4351-5",
       "name": "AJU VÄGI – aju ja mälu vitamiinid aju töö toetuseks",
-      "imageUrl": "https://github.com/GitSten/kaust/blob/main/maksakompleks-transparent.png",
+      "imageUrl": "https://raw.githubusercontent.com/GitSten/kaust/main/maksakompleks-transparent.png",
       "defaultDose": 2,
       "recommended": { "pattern": "morning" }
     },
