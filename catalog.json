@@ -24,7 +24,7 @@
     },    
     {
       "sku": "8888-5",
-      "name": "Näidis: 3x päevas",
+      "name": "Näidis: 3x fsafasfafsasfasfaf päevas",
       "imageUrl": "https://via.placeholder.com/200?text=3x",
       "defaultDose": 1,
       "recommended": { "pattern": "three", "times": ["08:00","13:00","20:00"] }
