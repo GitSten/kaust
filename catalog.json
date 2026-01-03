@@ -4,7 +4,7 @@
     {
       "sku": "4351-5",
       "name": "AJU VÄGI – aju ja mälu vitamiinid aju töö toetuseks",
-      "imageUrl": "https://raw.githubusercontent.com/GitSten/kaust/main/maksakompleks-transparent.png",
+      "imageUrl": "https://raw.githubusercontent.com/GitSten/kaust/refs/heads/main/aju-vagi-transparent-1200x1200-removebg-preview.png",
       "defaultDose": 2,
       "recommended": { "pattern": "morning" }
     },
