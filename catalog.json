@@ -17,8 +17,8 @@
     },
     
     {
-      "sku": "9999-5",
-      "name": "test: 2x test",
+      "sku": "999-5",
+      "name": "C-vitamiin",
       "imageUrl": "#",
       "defaultDose": 1,
       "recommended": { "pattern": "twice", "times": ["08:00", "20:00"] }
