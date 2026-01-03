@@ -1,17 +1,17 @@
 {
-  "version":2, 
+  "version":1, 
   "items": [
     {
       "sku": "4351-5",
-      "name": "AJU VÄGI – aju ja mälu vitamiinid aju töö toetuseks,90 kapslit",
-      "imageUrl": "https://raw.githubusercontent.com/GitSten/kaust/refs/heads/main/aju-vagi-transparent-1200x1200-removebg-preview.png",
+      "name": "AJU VÄGI – aju ja mälu vitamiinid aju töö toetuseks",
+      "imageUrl": "https://raw.githubusercontent.com/GitSten/kaust/main/maksakompleks-transparent.png",
       "defaultDose": 2,
       "recommended": { "pattern": "morning" }
     },
     {
-      "sku": "4267-5",
-      "name": "B-kompleks bioaktiivne, 60 kapslit ",
-      "imageUrl": "https://raw.githubusercontent.com/GitSten/kaust/104961af2882d0cbe1475870eecaca351ffe5642/B-kompleks.png",
+      "sku": "4351-5555",
+      "name": "B-KOMPLEKS ",
+      "imageUrl": "#",
       "defaultDose": 2,
       "recommended": { "pattern": "morning" }
     },
@@ -26,7 +26,7 @@
     
     {
       "sku": "12345",
-      "name": "TEST TEST nüüd?: 2x test",
+      "name": "kas nüüd?: 2x test",
       "imageUrl": "#",
       "defaultDose": 1,
       "recommended": { "pattern": "twice", "times": ["08:00", "20:00"] }
@@ -35,7 +35,7 @@
    
     {
       "sku": "11111-5",
-      "name": "TEST TEST: 3x päevas",
+      "name": "uus: 3x päevas",
       "imageUrl": "https://via.placeholder.com/200?text=3x",
       "defaultDose": 1,
       "recommended": { "pattern": "three", "times": ["08:00", "13:00", "20:00"] }
