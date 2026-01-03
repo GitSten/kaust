@@ -20,7 +20,7 @@
     {
       "sku": "999-5",
       "name": "C-vitamiin",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHVbyrBJJuDTqGvjxZROHWczKU2mBbBQWsPQ&s",
+      "imageUrl": "#",
       "defaultDose": 1,
       "recommended": { "pattern": "twice", "times": ["08:00", "20:00"] }
     }
