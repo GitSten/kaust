@@ -11,7 +11,7 @@
     {
       "sku": "4267-5",
       "name": "B-kompleks bioaktiivne, 60 kapslit ",
-      "imageUrl": "https://raw.githubusercontent.com/GitSten/kaust/refs/heads/main/b-kompleks.png"",
+      "imageUrl": "https://raw.githubusercontent.com/GitSten/kaust/refs/heads/main/B-kompleks.png",
       "defaultDose": 2,
       "recommended": { "pattern": "morning" }
     },
