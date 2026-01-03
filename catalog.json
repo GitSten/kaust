@@ -26,7 +26,7 @@
     
     {
       "sku": "12345",
-      "name": "kas nüüd?: 2x test",
+      "name": "TEST TEST nüüd?: 2x test",
       "imageUrl": "#",
       "defaultDose": 1,
       "recommended": { "pattern": "twice", "times": ["08:00", "20:00"] }
@@ -35,7 +35,7 @@
    
     {
       "sku": "11111-5",
-      "name": "uus: 3x päevas",
+      "name": "TEST TEST: 3x päevas",
       "imageUrl": "https://via.placeholder.com/200?text=3x",
       "defaultDose": 1,
       "recommended": { "pattern": "three", "times": ["08:00", "13:00", "20:00"] }
