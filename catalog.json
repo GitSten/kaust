@@ -3,15 +3,15 @@
   "items": [
     {
       "sku": "4351-5",
-      "name": "AJU VÄGI – aju ja mälu vitamiinid aju töö toetuseks",
+      "name": "AJU VÄGI – aju ja mälu vitamiinid aju töö toetuseks,90 kapslit",
       "imageUrl": "https://raw.githubusercontent.com/GitSten/kaust/refs/heads/main/aju-vagi-transparent-1200x1200-removebg-preview.png",
       "defaultDose": 2,
       "recommended": { "pattern": "morning" }
     },
     {
-      "sku": "4351-5555",
-      "name": "B-KOMPLEKS ",
-      "imageUrl": "#",
+      "sku": "4267-5",
+      "name": "B-kompleks bioaktiivne, 60 kapslit ",
+      "imageUrl": "https://raw.githubusercontent.com/GitSten/kaust/refs/heads/main/b-kompleks.png"",
       "defaultDose": 2,
       "recommended": { "pattern": "morning" }
     },
