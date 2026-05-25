@@ -1,44 +1,887 @@
 {
-  "version":1, 
+  "version": 1,
   "items": [
     {
+      "sku": "PILET-TAIMED",
+      "name": "Taimepäeva pilet",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2026/03/Taimepaev2026_bannerid_ruut2-toode-1.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "4230-5",
+      "name": "Inositool Müo + D-kiro  – hormonaalsele regulatsioonile",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/12/Inositool_MuoD-kiro_4230_v01-tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "4300-5",
+      "name": "Silmavitamiinid - nägemise toetuseks",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/11/Silma-vitamiinid_4300_v01.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "1220-5",
+      "name": "Hüaluroon sünergia - elastsem ja siledam nahk",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/10/Hualuroon-sunergia_1220_v02-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "8710001",
+      "name": "Veebiseminari \"Julgus sinus eneses\" Järelvaatamine",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/Ecosh_seminar2025_tootepilt-1.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "3245-5",
+      "name": "Magneesiummalaat - energiavahetusele ja lihaste tööle",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/08/Mg-malaat_3245-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "2120-5",
+      "name": "Cistus + Küüslauk  - organismi kaitsevõime toetuseks",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2018/06/CistusKuuslauk_2120-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "2225-5",
+      "name": "Punane siilkübar Echinacea – immuunsust ja hingamisteid toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/06/Punane-siilkubar_2225-tiny-jpg.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "2110-5",
+      "name": "Artišoki ekstrakt – seedimist ja kehakaalu toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/05/Artishoki-ekstrakt_2110.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "4507-5",
+      "name": "Oomex oomega-3 kalaõli + tudraõli Tutti-Frutti maitsega",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/05/Oomex_4507_Tutti-frutti-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "2900-5",
+      "name": "Puhas Energia Mini 30 kapslit",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/Puhas_Energia_2900_N30-1.png",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "3241-5",
+      "name": "Magneesium PRO + Mumio MINI",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/Mg-Promumio_N30_3241-5-jpg.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "2102-5",
+      "name": "Pau d'Arco sipelgapuu koore kapslid – organismi kaitseks",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/01/PauDarco-kapslid-2102-1200x1200px-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "2805-5",
+      "name": "Boswellia + Liposoomne kurkumiin – liigeste ja liikuvuse toetuseks",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/01/Lipo-Boswellia_2805-1200px-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "7161-5",
+      "name": "Boulardii 5-10 miljardit aktiivset elusrakku",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2024/09/Boulardii_N60_7161-Tiny-1.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "6650-5",
+      "name": "Ecobiotic beebi ja väikelaps piimhappebakterid",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2024/09/Ecobiotic_beebi-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "6654-5",
+      "name": "Ecobiotic 16 tüve piimhappebakterid + kiudained",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2024/09/Ecobiotic_16-tyve-Tiny-1.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "6652-5",
+      "name": "Ecobiotic universaalne piimhappebakterid + kiudained",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2024/09/Ecobiotic_universaalne-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "6656-5",
+      "name": "Ecobiotic naistele piimhappebakterid + kiudained + taimed",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2024/09/Ecobiotic_naistele-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "8150059",
+      "name": "Täieliku puhastumise käsiraamat",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/raamatud-3.jpg",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "1400-5",
+      "name": "Lapseootus – vitamiinid ootavale ja imetavale emale",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2024/07/Lapseootus_1400-Tiny-1.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "4267-5",
+      "name": "Bioaktiivne B-vitamiinide kompleks",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2024/07/B-kompleks_4267-Tiny-1.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "3238-5",
+      "name": "Rauakompleks + nõges + vitamiinid – vereloomele",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2024/05/Rauakompleksnogesvit-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "6130-5",
+      "name": "Ensüümid seedimisele - ensüümid, bromelaiin, artišokk",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2024/05/Ensyymid_seedimisele_6130-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "4505-5",
+      "name": "Oomex oomega-3 kalaõli + tudraõli sidruni maitsega",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2024/05/Oomex_sidrun-4505-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "8109801",
+      "name": "Ecoshi veepudel",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/00_pudel-jpg.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "8109804",
+      "name": "Väekarp - Ecoshi kapslikarp Beež",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/Ecosh_Merch_06.06.2024_160-jpg-e1724836570613.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "1250-5",
+      "name": "Ilu kollageen – kaunima ja säravama naha heaks",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2024/04/Ilu-kollageen_1250-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "3240-5",
+      "name": "Magneesium PRO + Mumio – lihastele, närvisüsteemile, immuunsüsteemile",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2024/04/magneesium-pro-mumio-Tiny-1.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "2220-5",
+      "name": "Kolesterooli tasakaal - südame-veresoonkonna tervisele",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2024/03/Kolesterooli-Tasakaal_2220_N60-Tiny-1.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "3131-5",
+      "name": "MSM kompleks nahale, juustele, küüntele",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2024/02/MSM-kompleks_3131-Tiny-1.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "3203-5",
+      "name": "Luudex - luudele ja lihaskonnale",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2024/02/luudex_3203_transparent-1.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "2901-5",
+      "name": "Puhas Energia – vaimset ja füüsilist energiat toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/Puhas_Energia_2901_N60-jpg.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "2906-5",
+      "name": "Fookus – keskendumisvõimet ja mälu toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2024/02/Fookus_2906.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "1165-5",
+      "name": "D-Mannoos + Echinacea - põie tööd toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2023/12/D-MannoosEchinacea-1165-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "6120-5",
+      "name": "Koensüüm Q10 ubikinoon + ubikinool – energiavitamiin",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2023/11/Q10_6120-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "3161-5",
+      "name": "Liigesekompleks + Kollageen – liigeseid toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2023/10/liigese-komplekskollageen-3161-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "2861-5",
+      "name": "Dong quai – hoiab naise tervist",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2023/09/Dong-Quai_2861-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "8109812",
+      "name": "Keelekaabits",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2023/08/IMG_9901-1.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "4381-5",
+      "name": "Mehe vägi – mehe energiat ja vastupidavust toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2023/06/Mehe-vagi-4381-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "2211-5",
+      "name": "Lion's mane ehk lõvilakk – funktsionaalne seen",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2023/05/lions-mane-2211-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "4371-5",
+      "name": "Viirutus – organismi vastupanuvõimet toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2023/04/viirutus-4371-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "4361-5",
+      "name": "Aller stopp – toetab immuunsüsteemi allergeenidega toimetulekul",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2023/04/aller-stopp-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "5101-5",
+      "name": "Liposoomne D3-vitamiin",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/ecosh_D3_Vitamiin_mockup-1-1-jpg.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "5012-5",
+      "name": "Liposoomne C-vitamiin",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/ecosh_C_Vitamiin_mockup-1-1-jpg.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "5031-5",
+      "name": "Liposoomne magneesium",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/ecosh_Magneesium_mockup-1-1-jpg.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "5111-5",
+      "name": "Liposoomne vegan D3-vitamiin",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/ecosh_D3_Vitamiin_vegan_mockup-1-jpg.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
       "sku": "4351-5",
-      "name": "AJU VÄGI – aju ja mälu vitamiinid aju töö toetuseks",
-      "imageUrl": "https://raw.githubusercontent.com/GitSten/kaust/main/maksakompleks-transparent.png",
-      "defaultDose": 2,
-      "recommended": { "pattern": "morning" }
-    },
-    {
-      "sku": "4351-5555",
-      "name": "B-KOMPLEKS ",
-      "imageUrl": "#",
-      "defaultDose": 2,
-      "recommended": { "pattern": "morning" }
-    },
-    
-    {
-      "sku": "9999-5",
-      "name": "test: 2x test",
-      "imageUrl": "#",
+      "name": "Aju vägi – aju tööd ja kognitiivseid funktsioone toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2022/12/aju-vagi-Tiny.webp",
       "defaultDose": 1,
-      "recommended": { "pattern": "twice", "times": ["08:00", "20:00"] }
+      "recommended": {
+        "pattern": "morning"
+      }
     },
-    
     {
-      "sku": "12345",
-      "name": "kas nüüd?: 2x test",
-      "imageUrl": "#",
+      "sku": "1119-5",
+      "name": "Kvertsetiin FlaviPure® C-vitamiiniga – immuunsust toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2022/09/Kvertsetiin-1119-Tiny.webp",
       "defaultDose": 1,
-      "recommended": { "pattern": "twice", "times": ["08:00", "20:00"] }
+      "recommended": {
+        "pattern": "morning"
+      }
     },
-
-   
     {
-      "sku": "11111-5",
-      "name": "uus: 3x päevas",
-      "imageUrl": "https://via.placeholder.com/200?text=3x",
+      "sku": "nan",
+      "name": "Ecoshi lukuga pusa",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/Ecosh_Merch_06.06.2024_ruut_011-jpg.webp",
       "defaultDose": 1,
-      "recommended": { "pattern": "three", "times": ["08:00", "13:00", "20:00"] }
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "nan",
+      "name": "Ecoshi hoodie",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/Ecosh_Merch_06.06.2024_094-jpg.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "1176-5",
+      "name": "Noorex – toidulisand noortele",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/noorex.jpg",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "nan",
+      "name": "Ecoshi T-särk",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/Ecosh_Merch_06.06.2024_015-jpg.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "4221-5",
+      "name": "NAC + Kibuvits – organismi kaitsevõimet toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2022/07/Nac-kibuvits-4221-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "4285-5",
+      "name": "B3 vitamiin – energiavahetusele ja närvisüsteemile",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2022/06/b3-vitamiin-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "3224-5",
+      "name": "Tsink + C-vitamiin – vedel tsink perele",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2022/05/tsink-vedel_50ml-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "1212-5",
+      "name": "Maksakompleks – maksa tööd toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2022/05/Maksakompleks_1212-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "3305-5",
+      "name": "Mineralex – üle 70 olulise mineraali ja mikroelemendi",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2022/04/mineralex-3305-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "1191-5",
+      "name": "Kuldjume – nahka toetav ja kaitsev",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2022/04/kuldjume-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "2403-5",
+      "name": "Testoboost – mehe võimekust ja viljakust toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2022/04/testoboost-2403-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "1172-5",
+      "name": "Meelerahu – närvisüsteemi toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2021/08/Meelerahu_1172-Tiny-1.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "6171-5",
+      "name": "Zen-dida – organismi toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2021/06/Zen-Dida-6171-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "1181-5",
+      "name": "Hea une kompleks – und toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2021/05/hea-une-kompleks-1181-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "2760-5",
+      "name": "Libejalaka puukoor – limaskesti toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2021/03/Libejalaka-puukoor_2760-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "2351-5",
+      "name": "Vererõhu kompleks – südame ja veresoonte tervisele",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2021/01/vererohu-kompleks_2351-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "2410-5",
+      "name": "Must pässik + Must küüslauk – antioksüdantide allikas",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2021/01/must-passik-kuuslauk-2410-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "6611-5",
+      "name": "Bacillus subtilis – seedetrakti toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2020/07/Bacillus-subtilis-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "2105-5",
+      "name": "Pau d'arco sipelgapuu koore tilgad – organismi kaitseks",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/paudarco-50ml-3-jpg-e1730465846615.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "4306-5",
+      "name": "Antioksüdandid – immuunsüsteemi toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2020/07/antioksudantidide-kompleks-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "8502-5",
+      "name": "Terviklik kehapuhastuskuur Detox – 3 organismi puhastavat toodet + käsiraamat",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/kehapuhastus-toode.jpg",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "4283-5",
+      "name": "Foolhape bioaktiivne – vereloomet ja rakkude jagunemist toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2020/05/foolhape-4283-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "1362-5",
+      "name": "Para-Herb – soolestiku puhastumist ja seedimist toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/Para-Herb-jpg.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "4276-5",
+      "name": "Biotiin bioaktiivne 5000 μg – iluvitamiin nahale ja juustele",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2020/04/Biotiin-4276-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "3251-5",
+      "name": "Seleen L-selenometioniin – immuunsust ja kilpnääret toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2020/02/Seleen-3251-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "1350-5",
+      "name": "Kehapuhastus Detox",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2019/04/kehapuhastus-detox.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "4271-5",
+      "name": "B12 bioaktiivne vitamiin – energiavahetusele, närvisüsteemile ja immuunsusele",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/b12-1-600x600-1.jpeg",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "4185-5",
+      "name": "K2+D3 vitamiin – luid ja lihaseid toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2019/03/k2d3-k2vital-4185-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "3221-5",
+      "name": "Tsink diglütsinaat – immuunsüsteemile",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/tsink-transparent-600x600-1.jpg",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "4210-5",
+      "name": "C-vitamiin bioaktiivne Acerolaga",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2018/06/c-vitamiin-acerola-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "4201-5",
+      "name": "C-vitamiin + Kibuvits",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2018/06/c-vitamiin-kibuvits-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "4181-5",
+      "name": "D3 vitamiin, 4000IU/kapsel",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/d-vit-kapsel-transparent-1-600x600-1.jpg",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "4164-5",
+      "name": "D3 vitamiin, 4000-IU tilk, kookosõliga 10ml",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/d3-kookos.jpg",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "4155-5",
+      "name": "D3 vitamiin, 4000-IU tilk, kanepiõliga 10ml",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/d-vit4000iu-kanep-transparent-600x600-1.jpg",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "4122-5",
+      "name": "D3 vitamiin, 400IU tilk, lastele, kookos 10ml",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/laste-d3-transparent-1.png",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "3211-5",
+      "name": "Magneesiumglütsinaat – närvisüsteemile ja lihastele",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2018/06/magneesium-glytsinaat-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "2701-5",
+      "name": "Kurkumiin + Piperiin – immuunsüsteemi ja organismi kaitset toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2018/06/kurkumiin-2701-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "2601-5",
+      "name": "Moringa – veresuhkru tasakaalustamiseks",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2018/06/moringa-2601-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "2560-5",
+      "name": "Musta pähkli ekstrakt – organismi puhastav ja seedimist toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2018/06/must-pahkel-2560-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "2548-5",
+      "name": "Võilill – maksa toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2018/06/V6ilill_2548-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "2503-5",
+      "name": "Ashwagandha KSM 66 - vaimsele heaolule",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2018/06/ashwagandha-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "2311-5",
+      "name": "Red reishi Ganoderma kontsentreeritud seeneekstrakt",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2018/06/red-reishi-2311-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "2201-5",
+      "name": "Korditseps seeneekstrakt 40% polüsahhariide",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2018/06/korditseps-2201-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "1300-5",
+      "name": "Kiudaineterikas soolepuhastus Detox",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2018/06/soolepuhastus-1300-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "1121-5",
+      "name": "Vitaboost – väekas marjasegu lastele",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2018/06/vitaboost_1121-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "1114-5",
+      "name": "L-arginiin + mustikas – veresooni toetav",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2018/06/l-argi-mustikas-1114-Tiny.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "8450100",
+      "name": "Väekinkekaart 100 €",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2015/01/Ecosh_kinkekaardid2025_100eur.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "8550050",
+      "name": "Väekinkekaart 50 €",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2015/01/Ecosh_kinkekaardid2025_50eur.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
+    },
+    {
+      "sku": "8450025",
+      "name": "Väekinkekaart 25 €",
+      "imageUrl": "https://ecosh.ee/wp-content/uploads/2015/01/Ecosh_kinkekaardid2025_25eur.webp",
+      "defaultDose": 1,
+      "recommended": {
+        "pattern": "morning"
+      }
     }
   ]
 }
