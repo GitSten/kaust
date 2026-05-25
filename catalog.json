@@ -1,15 +1,7 @@
 {
   "version": 1,
   "items": [
-    {
-      "sku": "PILET-TAIMED",
-      "name": "Taimepäeva pilet",
-      "imageUrl": "https://ecosh.ee/wp-content/uploads/2026/03/Taimepaev2026_bannerid_ruut2-toode-1.webp",
-      "defaultDose": 1,
-      "recommended": {
-        "pattern": "morning"
-      }
-    },
+ 
     {
       "sku": "4230-5",
       "name": "Inositool Müo + D-kiro  – hormonaalsele regulatsioonile",
@@ -856,32 +848,7 @@
         "pattern": "morning"
       }
     },
-    {
-      "sku": "8450100",
-      "name": "Väekinkekaart 100 €",
-      "imageUrl": "https://ecosh.ee/wp-content/uploads/2015/01/Ecosh_kinkekaardid2025_100eur.webp",
-      "defaultDose": 1,
-      "recommended": {
-        "pattern": "morning"
-      }
-    },
-    {
-      "sku": "8550050",
-      "name": "Väekinkekaart 50 €",
-      "imageUrl": "https://ecosh.ee/wp-content/uploads/2015/01/Ecosh_kinkekaardid2025_50eur.webp",
-      "defaultDose": 1,
-      "recommended": {
-        "pattern": "morning"
-      }
-    },
-    {
-      "sku": "8450025",
-      "name": "Väekinkekaart 25 €",
-      "imageUrl": "https://ecosh.ee/wp-content/uploads/2015/01/Ecosh_kinkekaardid2025_25eur.webp",
-      "defaultDose": 1,
-      "recommended": {
-        "pattern": "morning"
-      }
+   
     }
   ]
 }
