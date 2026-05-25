@@ -83,15 +83,7 @@
         "pattern": "morning"
       }
     },
-    {
-      "sku": "2900-5",
-      "name": "Puhas Energia Mini 30 kapslit",
-      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/Puhas_Energia_2900_N30-1.png",
-      "defaultDose": 1,
-      "recommended": {
-        "pattern": "morning"
-      }
-    },
+    
     {
       "sku": "3241-5",
       "name": "Magneesium PRO + Mumio MINI",
