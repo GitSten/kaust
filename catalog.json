@@ -1,11 +1,10 @@
 {
-  "version": 2,
-  "updatedAt": "2026-05-25T12:00:00.000Z",
+  "version": 3,
   "items": [
  
     {
       "sku": "4230-5",
-      "name": "Inositool test Müo + D-kiro  – hormonaalsele regulatsioonile",
+      "name": "Inositool testuus Müo + D-kiro  – hormonaalsele regulatsioonile",
       "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/12/Inositool_MuoD-kiro_4230_v01-tiny.webp",
       "defaultDose": 1,
       "recommended": {
