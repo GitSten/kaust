@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "items": [
  
     {
@@ -29,15 +29,7 @@
         "pattern": "morning"
       }
     },
-    {
-      "sku": "8710001",
-      "name": "Veebiseminari \"Julgus sinus eneses\" Järelvaatamine",
-      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/Ecosh_seminar2025_tootepilt-1.webp",
-      "defaultDose": 1,
-      "recommended": {
-        "pattern": "morning"
-      }
-    },
+   
     {
       "sku": "3245-5",
       "name": "Magneesiummalaat - energiavahetusele ja lihaste tööle",
@@ -84,15 +76,8 @@
       }
     },
     
-    {
-      "sku": "3241-5",
-      "name": "Magneesium PRO + Mumio MINI",
-      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/Mg-Promumio_N30_3241-5-jpg.webp",
-      "defaultDose": 1,
-      "recommended": {
-        "pattern": "morning"
-      }
-    },
+  
+    
     {
       "sku": "2102-5",
       "name": "Pau d'Arco sipelgapuu koore kapslid – organismi kaitseks",
@@ -210,24 +195,8 @@
         "pattern": "morning"
       }
     },
-    {
-      "sku": "8109801",
-      "name": "Ecoshi veepudel",
-      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/00_pudel-jpg.webp",
-      "defaultDose": 1,
-      "recommended": {
-        "pattern": "morning"
-      }
-    },
-    {
-      "sku": "8109804",
-      "name": "Väekarp - Ecoshi kapslikarp Beež",
-      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/Ecosh_Merch_06.06.2024_160-jpg-e1724836570613.webp",
-      "defaultDose": 1,
-      "recommended": {
-        "pattern": "morning"
-      }
-    },
+    
+    
     {
       "sku": "1250-5",
       "name": "Ilu kollageen – kaunima ja säravama naha heaks",
@@ -327,15 +296,7 @@
         "pattern": "morning"
       }
     },
-    {
-      "sku": "8109812",
-      "name": "Keelekaabits",
-      "imageUrl": "https://ecosh.ee/wp-content/uploads/2023/08/IMG_9901-1.webp",
-      "defaultDose": 1,
-      "recommended": {
-        "pattern": "morning"
-      }
-    },
+   
     {
       "sku": "4381-5",
       "name": "Mehe vägi – mehe energiat ja vastupidavust toetav",
@@ -426,24 +387,7 @@
         "pattern": "morning"
       }
     },
-    {
-      "sku": "nan",
-      "name": "Ecoshi lukuga pusa",
-      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/Ecosh_Merch_06.06.2024_ruut_011-jpg.webp",
-      "defaultDose": 1,
-      "recommended": {
-        "pattern": "morning"
-      }
-    },
-    {
-      "sku": "nan",
-      "name": "Ecoshi hoodie",
-      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/Ecosh_Merch_06.06.2024_094-jpg.webp",
-      "defaultDose": 1,
-      "recommended": {
-        "pattern": "morning"
-      }
-    },
+   
     {
       "sku": "1176-5",
       "name": "Noorex – toidulisand noortele",
@@ -453,15 +397,7 @@
         "pattern": "morning"
       }
     },
-    {
-      "sku": "nan",
-      "name": "Ecoshi T-särk",
-      "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/09/Ecosh_Merch_06.06.2024_015-jpg.webp",
-      "defaultDose": 1,
-      "recommended": {
-        "pattern": "morning"
-      }
-    },
+   
     {
       "sku": "4221-5",
       "name": "NAC + Kibuvits – organismi kaitsevõimet toetav",
