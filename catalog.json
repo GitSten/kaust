@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "items": [
  
     {
@@ -839,6 +839,6 @@
       "recommended": {
         "pattern": "morning"
       }
-      }
+      
   ]
 }
