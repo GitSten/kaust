@@ -1,11 +1,12 @@
 {
-  "version": 9,
+  "version": 10,
   "items": [
  
     {
       "sku": "4230-5",
       "name": "Inositool  Müo + D-kiro  – hormonaalsele regulatsioonile",
       "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/12/Inositool_MuoD-kiro_4230_v01-tiny.webp",
+      "productUrl": "https://ecosh.ee/toode/inositool-muo-d-kiro-hormonaalsele-regulatsioonile/",
       "defaultDose": 1,
       "recommended": {
         "pattern": "morning"
@@ -15,6 +16,7 @@
       "sku": "4300-5",
       "name": "Silmavitamiinid - nägemise toetuseks",
       "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/11/Silma-vitamiinid_4300_v01.webp",
+      "productUrl": "https://ecosh.ee/toode/silmavitamiinid-nagemise-toetuseks/",
       "defaultDose": 1,
       "recommended": {
         "pattern": "morning"
