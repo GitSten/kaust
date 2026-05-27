@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "items": [
  
     {
@@ -26,9 +26,9 @@
       "sku": "1220-5",
       "name": "Hüaluroon sünergia - elastsem ja siledam nahk",
       "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/10/Hualuroon-sunergia_1220_v02-Tiny.webp",
-      "defaultDose": 1,
+      "defaultDose": 2,
       "recommended": {
-        "pattern": "morning"
+        "pattern": "evening"
       }
     },
    
@@ -36,7 +36,7 @@
       "sku": "3245-5",
       "name": "Magneesiummalaat - energiavahetusele ja lihaste tööle",
       "imageUrl": "https://ecosh.ee/wp-content/uploads/2025/08/Mg-malaat_3245-Tiny.webp",
-      "defaultDose": 1,
+      "defaultDose": 3,
       "recommended": {
         "pattern": "morning"
       }
@@ -376,7 +376,7 @@
       "name": "Aju vägi – aju tööd ja kognitiivseid funktsioone toetav",
       "imageUrl": "https://ecosh.ee/wp-content/uploads/2022/12/aju-vagi-Tiny.webp",
       "productUrl": "https://ecosh.ee/toode/aju-vagi/",
-      "defaultDose": 1,
+      "defaultDose": 2,
       "recommended": {
         "pattern": "morning"
       }
